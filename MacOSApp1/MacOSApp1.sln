@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacOSApp1", "MacOSApp1\MacOSApp1.csproj", "{5ACAE266-49E5-42F5-9565-FA1E75E0B136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITestProject1", "UITestProject1\UITestProject1.csproj", "{CBA3F338-F907-4E6F-9773-3C02345B767E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ACAE266-49E5-42F5-9565-FA1E75E0B136}.Debug|x86.ActiveCfg = Debug|x86
+		{5ACAE266-49E5-42F5-9565-FA1E75E0B136}.Debug|x86.Build.0 = Debug|x86
+		{5ACAE266-49E5-42F5-9565-FA1E75E0B136}.Debug|x86.Deploy.0 = Debug|x86
+		{5ACAE266-49E5-42F5-9565-FA1E75E0B136}.Release|x86.ActiveCfg = Release|x86
+		{5ACAE266-49E5-42F5-9565-FA1E75E0B136}.Release|x86.Build.0 = Release|x86
+		{5ACAE266-49E5-42F5-9565-FA1E75E0B136}.Release|x86.Deploy.0 = Release|x86
+		{CBA3F338-F907-4E6F-9773-3C02345B767E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CBA3F338-F907-4E6F-9773-3C02345B767E}.Debug|x86.Build.0 = Debug|Any CPU
+		{CBA3F338-F907-4E6F-9773-3C02345B767E}.Release|x86.ActiveCfg = Release|Any CPU
+		{CBA3F338-F907-4E6F-9773-3C02345B767E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

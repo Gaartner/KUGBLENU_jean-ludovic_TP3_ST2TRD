@@ -1,0 +1,13 @@
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/obj/Debug/UITestProject1.csproj.AssemblyReference.cache
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/obj/Debug/UITestProject1.csproj.CoreCompileInputs.cache
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/bin/Debug/UITestProject1.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/bin/Debug/UITestProject1.pdb
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/bin/Debug/nunit.framework.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/bin/Debug/Xamarin.UITest.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/bin/Debug/MacOSApp1.exe
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/bin/Debug/Newtonsoft.Json.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/bin/Debug/MacOSApp1.pdb
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/bin/Debug/Newtonsoft.Json.xml
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/obj/Debug/UITestProject1.csproj.CopyComplete
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/obj/Debug/UITestProject1.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/obj/Debug/UITestProject1.pdb

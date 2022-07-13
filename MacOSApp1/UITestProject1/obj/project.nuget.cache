@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NeAfEAi2XZb5PmS/PPURoWZa2kJ++4I9sfjcKlu+nlx6zFsPFrjWazwVIO9FTNfy3Y9jOjJs8CxSmPqePwFCrQ==",
+  "success": true,
+  "projectFilePath": "/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP3/KUGBLENU_jean-ludovic_TP3_ST2TRD/MacOSApp1/UITestProject1/UITestProject1.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucsky/.nuget/packages/nunit/2.6.4/nunit.2.6.4.nupkg.sha512",
+    "/Users/lucsky/.nuget/packages/xamarin.uitest/2.2.4/xamarin.uitest.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
