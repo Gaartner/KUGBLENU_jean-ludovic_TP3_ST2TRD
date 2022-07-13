@@ -816,7 +816,7 @@
                                 </textFieldCell>
                             </textField>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Q5M-Kr-gzD">
-                                <rect key="frame" x="391" y="522" width="165" height="16"/>
+                                <rect key="frame" x="391" y="522" width="315" height="16"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" title="pression" id="EEJ-Dk-cYi">
                                     <font key="font" metaFont="system"/>

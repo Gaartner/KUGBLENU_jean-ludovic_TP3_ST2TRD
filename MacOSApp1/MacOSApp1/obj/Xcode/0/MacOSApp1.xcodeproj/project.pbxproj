@@ -7,137 +7,137 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1B9239F00000000000000000 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 382409D00000000000000000 /* Cocoa.framework */; };
-		394458A00000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3671DF000000000000000000 /* Foundation.framework */; };
-		1EA00DE00000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13A07CE00000000000000000 /* Assets.xcassets */; };
-		30A464100000000000000000 /* 01d.png in Resources */ = {isa = PBXBuildFile; fileRef = 35C785100000000000000000 /* 01d.png */; };
-		2403ADE00000000000000000 /* 01n.png in Resources */ = {isa = PBXBuildFile; fileRef = 4211D1000000000000000000 /* 01n.png */; };
-		252A05B00000000000000000 /* 02d.png in Resources */ = {isa = PBXBuildFile; fileRef = E7A335000000000000000000 /* 02d.png */; };
-		24BCE0000000000000000000 /* 02n.png in Resources */ = {isa = PBXBuildFile; fileRef = 14AA3E600000000000000000 /* 02n.png */; };
-		39FC31600000000000000000 /* 03d.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DDBCB000000000000000000 /* 03d.png */; };
-		18CBA2400000000000000000 /* 03n.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F28B4C00000000000000000 /* 03n.png */; };
-		186E5B300000000000000000 /* 04d.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BE135300000000000000000 /* 04d.png */; };
-		3AEADEB00000000000000000 /* 04n.png in Resources */ = {isa = PBXBuildFile; fileRef = 1241D4500000000000000000 /* 04n.png */; };
-		245077300000000000000000 /* 09d.png in Resources */ = {isa = PBXBuildFile; fileRef = 6D430C000000000000000000 /* 09d.png */; };
-		3D75B7300000000000000000 /* 09n.png in Resources */ = {isa = PBXBuildFile; fileRef = 292371000000000000000000 /* 09n.png */; };
-		323EF9400000000000000000 /* 10d.png in Resources */ = {isa = PBXBuildFile; fileRef = 436C38000000000000000000 /* 10d.png */; };
-		25ECDFD00000000000000000 /* 10n.png in Resources */ = {isa = PBXBuildFile; fileRef = 1553DED00000000000000000 /* 10n.png */; };
-		3FF2D5700000000000000000 /* 11d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F8981600000000000000000 /* 11d.png */; };
-		3BD58CA00000000000000000 /* 11n.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A81F1C00000000000000000 /* 11n.png */; };
-		2E917FD00000000000000000 /* 13d.png in Resources */ = {isa = PBXBuildFile; fileRef = 231D7E600000000000000000 /* 13d.png */; };
-		3C0971800000000000000000 /* 13n.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C54FDC00000000000000000 /* 13n.png */; };
-		3EFCEC400000000000000000 /* 50d.png in Resources */ = {isa = PBXBuildFile; fileRef = 36E44E800000000000000000 /* 50d.png */; };
-		2E06C2800000000000000000 /* 50n.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E3CD6F00000000000000000 /* 50n.png */; };
-		10238ED00000000000000000 /* Copie de Sparkle.png in Resources */ = {isa = PBXBuildFile; fileRef = 114005B00000000000000000 /* Copie de Sparkle.png */; };
-		1B4033B00000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3541D1400000000000000000 /* Info.plist */; };
-		1F505B900000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 19D338100000000000000000 /* Entitlements.plist */; };
-		286CF8F00000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BD4C0B00000000000000000 /* Main.storyboard */; };
-		A7AC66000000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E50F9900000000000000000 /* AppDelegate.m */; };
-		10D8C6500000000000000000 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 179EF9400000000000000000 /* ViewController.m */; };
+		3D2AE2D00000000000000000 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2681F9700000000000000000 /* Cocoa.framework */; };
+		1A91C5600000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F1FF0A00000000000000000 /* Foundation.framework */; };
+		281F75C00000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 291B23D00000000000000000 /* Assets.xcassets */; };
+		31F442600000000000000000 /* 01d.png in Resources */ = {isa = PBXBuildFile; fileRef = 196558000000000000000000 /* 01d.png */; };
+		E4901C000000000000000000 /* 01n.png in Resources */ = {isa = PBXBuildFile; fileRef = 911040000000000000000000 /* 01n.png */; };
+		519928000000000000000000 /* 02d.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DE626800000000000000000 /* 02d.png */; };
+		1D175AF00000000000000000 /* 02n.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D232D000000000000000000 /* 02n.png */; };
+		3463C9B00000000000000000 /* 03d.png in Resources */ = {isa = PBXBuildFile; fileRef = 178217B00000000000000000 /* 03d.png */; };
+		1392D5400000000000000000 /* 03n.png in Resources */ = {isa = PBXBuildFile; fileRef = 30297F900000000000000000 /* 03n.png */; };
+		31757C100000000000000000 /* 04d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D215CF00000000000000000 /* 04d.png */; };
+		262C44B00000000000000000 /* 04n.png in Resources */ = {isa = PBXBuildFile; fileRef = 178E6A600000000000000000 /* 04n.png */; };
+		1401BD900000000000000000 /* 09d.png in Resources */ = {isa = PBXBuildFile; fileRef = 340FAA500000000000000000 /* 09d.png */; };
+		148CFD400000000000000000 /* 09n.png in Resources */ = {isa = PBXBuildFile; fileRef = 38F4E7500000000000000000 /* 09n.png */; };
+		9C2230000000000000000000 /* 10d.png in Resources */ = {isa = PBXBuildFile; fileRef = 57D33E000000000000000000 /* 10d.png */; };
+		3166D2F00000000000000000 /* 10n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9D6A700000000000000000 /* 10n.png */; };
+		2188BDF00000000000000000 /* 11d.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCEAD800000000000000000 /* 11d.png */; };
+		1C4419B00000000000000000 /* 11n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E64E7A00000000000000000 /* 11n.png */; };
+		318C24C00000000000000000 /* 13d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DED4B400000000000000000 /* 13d.png */; };
+		2D57A5A00000000000000000 /* 13n.png in Resources */ = {isa = PBXBuildFile; fileRef = 1814D2F00000000000000000 /* 13n.png */; };
+		18BB6AC00000000000000000 /* 50d.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E96C1300000000000000000 /* 50d.png */; };
+		134CCAB00000000000000000 /* 50n.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DB320600000000000000000 /* 50n.png */; };
+		1B4C23E00000000000000000 /* Copie de Sparkle.png in Resources */ = {isa = PBXBuildFile; fileRef = 35AD43300000000000000000 /* Copie de Sparkle.png */; };
+		23175CE00000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3BD244000000000000000000 /* Info.plist */; };
+		1A6464200000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2D8785500000000000000000 /* Entitlements.plist */; };
+		19C3B0300000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27E131B00000000000000000 /* Main.storyboard */; };
+		26EABF800000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E40BB900000000000000000 /* AppDelegate.m */; };
+		104698900000000000000000 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 127B5D800000000000000000 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1496C3500000000000000000 /* MacOSApp1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "MacOSApp1.app"; path = "MacOSApp1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		382409D00000000000000000 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Cocoa.framework"; path = "System/Library/Frameworks/Cocoa.framework"; sourceTree = SDKROOT; };
-		3671DF000000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
-		13A07CE00000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
-		35C785100000000000000000 /* 01d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "01d.png"; path = "01d.png"; sourceTree = "<group>"; };
-		4211D1000000000000000000 /* 01n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "01n.png"; path = "01n.png"; sourceTree = "<group>"; };
-		E7A335000000000000000000 /* 02d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "02d.png"; path = "02d.png"; sourceTree = "<group>"; };
-		14AA3E600000000000000000 /* 02n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "02n.png"; path = "02n.png"; sourceTree = "<group>"; };
-		9DDBCB000000000000000000 /* 03d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "03d.png"; path = "03d.png"; sourceTree = "<group>"; };
-		1F28B4C00000000000000000 /* 03n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "03n.png"; path = "03n.png"; sourceTree = "<group>"; };
-		1BE135300000000000000000 /* 04d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "04d.png"; path = "04d.png"; sourceTree = "<group>"; };
-		1241D4500000000000000000 /* 04n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "04n.png"; path = "04n.png"; sourceTree = "<group>"; };
-		6D430C000000000000000000 /* 09d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "09d.png"; path = "09d.png"; sourceTree = "<group>"; };
-		292371000000000000000000 /* 09n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "09n.png"; path = "09n.png"; sourceTree = "<group>"; };
-		436C38000000000000000000 /* 10d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "10d.png"; path = "10d.png"; sourceTree = "<group>"; };
-		1553DED00000000000000000 /* 10n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "10n.png"; path = "10n.png"; sourceTree = "<group>"; };
-		3F8981600000000000000000 /* 11d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "11d.png"; path = "11d.png"; sourceTree = "<group>"; };
-		1A81F1C00000000000000000 /* 11n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "11n.png"; path = "11n.png"; sourceTree = "<group>"; };
-		231D7E600000000000000000 /* 13d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "13d.png"; path = "13d.png"; sourceTree = "<group>"; };
-		1C54FDC00000000000000000 /* 13n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "13n.png"; path = "13n.png"; sourceTree = "<group>"; };
-		36E44E800000000000000000 /* 50d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "50d.png"; path = "50d.png"; sourceTree = "<group>"; };
-		1E3CD6F00000000000000000 /* 50n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "50n.png"; path = "50n.png"; sourceTree = "<group>"; };
-		114005B00000000000000000 /* Copie de Sparkle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Copie de Sparkle.png"; path = "Copie de Sparkle.png"; sourceTree = "<group>"; };
-		3541D1400000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
-		19D338100000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
-		2BD4C0B00000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
-		394CDE300000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
-		1E50F9900000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
-		3B3CFE000000000000000000 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ViewController.h"; path = "ViewController.h"; sourceTree = "<group>"; };
-		179EF9400000000000000000 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ViewController.m"; path = "ViewController.m"; sourceTree = "<group>"; };
+		26564A000000000000000000 /* MacOSApp1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "MacOSApp1.app"; path = "MacOSApp1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2681F9700000000000000000 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Cocoa.framework"; path = "System/Library/Frameworks/Cocoa.framework"; sourceTree = SDKROOT; };
+		2F1FF0A00000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		291B23D00000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		196558000000000000000000 /* 01d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "01d.png"; path = "01d.png"; sourceTree = "<group>"; };
+		911040000000000000000000 /* 01n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "01n.png"; path = "01n.png"; sourceTree = "<group>"; };
+		2DE626800000000000000000 /* 02d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "02d.png"; path = "02d.png"; sourceTree = "<group>"; };
+		5D232D000000000000000000 /* 02n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "02n.png"; path = "02n.png"; sourceTree = "<group>"; };
+		178217B00000000000000000 /* 03d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "03d.png"; path = "03d.png"; sourceTree = "<group>"; };
+		30297F900000000000000000 /* 03n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "03n.png"; path = "03n.png"; sourceTree = "<group>"; };
+		3D215CF00000000000000000 /* 04d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "04d.png"; path = "04d.png"; sourceTree = "<group>"; };
+		178E6A600000000000000000 /* 04n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "04n.png"; path = "04n.png"; sourceTree = "<group>"; };
+		340FAA500000000000000000 /* 09d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "09d.png"; path = "09d.png"; sourceTree = "<group>"; };
+		38F4E7500000000000000000 /* 09n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "09n.png"; path = "09n.png"; sourceTree = "<group>"; };
+		57D33E000000000000000000 /* 10d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "10d.png"; path = "10d.png"; sourceTree = "<group>"; };
+		3C9D6A700000000000000000 /* 10n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "10n.png"; path = "10n.png"; sourceTree = "<group>"; };
+		2DCEAD800000000000000000 /* 11d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "11d.png"; path = "11d.png"; sourceTree = "<group>"; };
+		3E64E7A00000000000000000 /* 11n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "11n.png"; path = "11n.png"; sourceTree = "<group>"; };
+		3DED4B400000000000000000 /* 13d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "13d.png"; path = "13d.png"; sourceTree = "<group>"; };
+		1814D2F00000000000000000 /* 13n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "13n.png"; path = "13n.png"; sourceTree = "<group>"; };
+		1E96C1300000000000000000 /* 50d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "50d.png"; path = "50d.png"; sourceTree = "<group>"; };
+		2DB320600000000000000000 /* 50n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "50n.png"; path = "50n.png"; sourceTree = "<group>"; };
+		35AD43300000000000000000 /* Copie de Sparkle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Copie de Sparkle.png"; path = "Copie de Sparkle.png"; sourceTree = "<group>"; };
+		3BD244000000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		2D8785500000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		27E131B00000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
+		19089A000000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		1E40BB900000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		214D6A200000000000000000 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ViewController.h"; path = "ViewController.h"; sourceTree = "<group>"; };
+		127B5D800000000000000000 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ViewController.m"; path = "ViewController.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		21524EF00000000000000000 /* Frameworks */ = {
+		2BB8BB800000000000000000 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B9239F00000000000000000 /* Cocoa.framework in Frameworks */,
-				394458A00000000000000000 /* Foundation.framework in Frameworks */,
+				3D2AE2D00000000000000000 /* Cocoa.framework in Frameworks */,
+				1A91C5600000000000000000 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2BE4C6700000000000000000 = {
+		97E979000000000000000000 = {
 			isa = PBXGroup;
 			children = (
-				B0AF9F000000000000000000 /* MacOSApp1 */,
-				2362C9800000000000000000 /* Frameworks */,
-				3E7915B00000000000000000 /* Products */,
+				157354800000000000000000 /* MacOSApp1 */,
+				10DF8D000000000000000000 /* Frameworks */,
+				97DBF9000000000000000000 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3E7915B00000000000000000 /* Products */ = {
+		97DBF9000000000000000000 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1496C3500000000000000000 /* MacOSApp1.app */,
+				26564A000000000000000000 /* MacOSApp1.app */,
 			);
 			name = "Products";
 			sourceTree = "<group>";
 		};
-		2362C9800000000000000000 /* Frameworks */ = {
+		10DF8D000000000000000000 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				382409D00000000000000000 /* Cocoa.framework */,
-				3671DF000000000000000000 /* Foundation.framework */,
+				2681F9700000000000000000 /* Cocoa.framework */,
+				2F1FF0A00000000000000000 /* Foundation.framework */,
 			);
 			name = "Frameworks";
 			sourceTree = "<group>";
 		};
-		B0AF9F000000000000000000 /* MacOSApp1 */ = {
+		157354800000000000000000 /* MacOSApp1 */ = {
 			isa = PBXGroup;
 			children = (
-				35C785100000000000000000 /* 01d.png */,
-				4211D1000000000000000000 /* 01n.png */,
-				E7A335000000000000000000 /* 02d.png */,
-				14AA3E600000000000000000 /* 02n.png */,
-				9DDBCB000000000000000000 /* 03d.png */,
-				1F28B4C00000000000000000 /* 03n.png */,
-				1BE135300000000000000000 /* 04d.png */,
-				1241D4500000000000000000 /* 04n.png */,
-				6D430C000000000000000000 /* 09d.png */,
-				292371000000000000000000 /* 09n.png */,
-				436C38000000000000000000 /* 10d.png */,
-				1553DED00000000000000000 /* 10n.png */,
-				3F8981600000000000000000 /* 11d.png */,
-				1A81F1C00000000000000000 /* 11n.png */,
-				231D7E600000000000000000 /* 13d.png */,
-				1C54FDC00000000000000000 /* 13n.png */,
-				36E44E800000000000000000 /* 50d.png */,
-				1E3CD6F00000000000000000 /* 50n.png */,
-				394CDE300000000000000000 /* AppDelegate.h */,
-				1E50F9900000000000000000 /* AppDelegate.m */,
-				13A07CE00000000000000000 /* Assets.xcassets */,
-				114005B00000000000000000 /* Copie de Sparkle.png */,
-				19D338100000000000000000 /* Entitlements.plist */,
-				3541D1400000000000000000 /* Info.plist */,
-				2BD4C0B00000000000000000 /* Main.storyboard */,
-				3B3CFE000000000000000000 /* ViewController.h */,
-				179EF9400000000000000000 /* ViewController.m */,
+				196558000000000000000000 /* 01d.png */,
+				911040000000000000000000 /* 01n.png */,
+				2DE626800000000000000000 /* 02d.png */,
+				5D232D000000000000000000 /* 02n.png */,
+				178217B00000000000000000 /* 03d.png */,
+				30297F900000000000000000 /* 03n.png */,
+				3D215CF00000000000000000 /* 04d.png */,
+				178E6A600000000000000000 /* 04n.png */,
+				340FAA500000000000000000 /* 09d.png */,
+				38F4E7500000000000000000 /* 09n.png */,
+				57D33E000000000000000000 /* 10d.png */,
+				3C9D6A700000000000000000 /* 10n.png */,
+				2DCEAD800000000000000000 /* 11d.png */,
+				3E64E7A00000000000000000 /* 11n.png */,
+				3DED4B400000000000000000 /* 13d.png */,
+				1814D2F00000000000000000 /* 13n.png */,
+				1E96C1300000000000000000 /* 50d.png */,
+				2DB320600000000000000000 /* 50n.png */,
+				19089A000000000000000000 /* AppDelegate.h */,
+				1E40BB900000000000000000 /* AppDelegate.m */,
+				291B23D00000000000000000 /* Assets.xcassets */,
+				35AD43300000000000000000 /* Copie de Sparkle.png */,
+				2D8785500000000000000000 /* Entitlements.plist */,
+				3BD244000000000000000000 /* Info.plist */,
+				27E131B00000000000000000 /* Main.storyboard */,
+				214D6A200000000000000000 /* ViewController.h */,
+				127B5D800000000000000000 /* ViewController.m */,
 			);
 			name = "MacOSApp1";
 			sourceTree = "<group>";
@@ -145,13 +145,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3241C3A00000000000000000 /* MacOSApp1 */ = {
+		156BBC500000000000000000 /* MacOSApp1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 44FE0C000000000000000000 /* Build configuration list for PBXNativeTarget "MacOSApp1" */;
+			buildConfigurationList = C99F20000000000000000000 /* Build configuration list for PBXNativeTarget "MacOSApp1" */;
 			buildPhases = (
-				26CEE7400000000000000000 /* Sources */,
-				21524EF00000000000000000 /* Frameworks */,
-				1D4621A00000000000000000 /* Resources */,
+				71698A000000000000000000 /* Sources */,
+				2BB8BB800000000000000000 /* Frameworks */,
+				3FCB5DC00000000000000000 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -159,81 +159,81 @@
 			);
 			name = "MacOSApp1";
 			productName = "MacOSApp1";
-			productReference = 1496C3500000000000000000 /* MacOSApp1.app */;
+			productReference = 26564A000000000000000000 /* MacOSApp1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7772EF000000000000000000 /* Project object */ = {
+		3E264C300000000000000000 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0930;
 			};
-			buildConfigurationList = 330A6C000000000000000000 /* Build configuration list for PBXProject "MacOSApp1" */;
+			buildConfigurationList = 2F58ADF00000000000000000 /* Build configuration list for PBXProject "MacOSApp1" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 2BE4C6700000000000000000;
-			productRefGroup = 3E7915B00000000000000000 /* Products */;
+			mainGroup = 97E979000000000000000000;
+			productRefGroup = 97DBF9000000000000000000 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3241C3A00000000000000000 /* MacOSApp1 */,
+				156BBC500000000000000000 /* MacOSApp1 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1D4621A00000000000000000 /* Resources */ = {
+		3FCB5DC00000000000000000 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1EA00DE00000000000000000 /* Assets.xcassets in Resources */,
-				30A464100000000000000000 /* 01d.png in Resources */,
-				2403ADE00000000000000000 /* 01n.png in Resources */,
-				252A05B00000000000000000 /* 02d.png in Resources */,
-				24BCE0000000000000000000 /* 02n.png in Resources */,
-				39FC31600000000000000000 /* 03d.png in Resources */,
-				18CBA2400000000000000000 /* 03n.png in Resources */,
-				186E5B300000000000000000 /* 04d.png in Resources */,
-				3AEADEB00000000000000000 /* 04n.png in Resources */,
-				245077300000000000000000 /* 09d.png in Resources */,
-				3D75B7300000000000000000 /* 09n.png in Resources */,
-				323EF9400000000000000000 /* 10d.png in Resources */,
-				25ECDFD00000000000000000 /* 10n.png in Resources */,
-				3FF2D5700000000000000000 /* 11d.png in Resources */,
-				3BD58CA00000000000000000 /* 11n.png in Resources */,
-				2E917FD00000000000000000 /* 13d.png in Resources */,
-				3C0971800000000000000000 /* 13n.png in Resources */,
-				3EFCEC400000000000000000 /* 50d.png in Resources */,
-				2E06C2800000000000000000 /* 50n.png in Resources */,
-				10238ED00000000000000000 /* Copie de Sparkle.png in Resources */,
-				1B4033B00000000000000000 /* Info.plist in Resources */,
-				1F505B900000000000000000 /* Entitlements.plist in Resources */,
-				286CF8F00000000000000000 /* Main.storyboard in Resources */,
+				281F75C00000000000000000 /* Assets.xcassets in Resources */,
+				31F442600000000000000000 /* 01d.png in Resources */,
+				E4901C000000000000000000 /* 01n.png in Resources */,
+				519928000000000000000000 /* 02d.png in Resources */,
+				1D175AF00000000000000000 /* 02n.png in Resources */,
+				3463C9B00000000000000000 /* 03d.png in Resources */,
+				1392D5400000000000000000 /* 03n.png in Resources */,
+				31757C100000000000000000 /* 04d.png in Resources */,
+				262C44B00000000000000000 /* 04n.png in Resources */,
+				1401BD900000000000000000 /* 09d.png in Resources */,
+				148CFD400000000000000000 /* 09n.png in Resources */,
+				9C2230000000000000000000 /* 10d.png in Resources */,
+				3166D2F00000000000000000 /* 10n.png in Resources */,
+				2188BDF00000000000000000 /* 11d.png in Resources */,
+				1C4419B00000000000000000 /* 11n.png in Resources */,
+				318C24C00000000000000000 /* 13d.png in Resources */,
+				2D57A5A00000000000000000 /* 13n.png in Resources */,
+				18BB6AC00000000000000000 /* 50d.png in Resources */,
+				134CCAB00000000000000000 /* 50n.png in Resources */,
+				1B4C23E00000000000000000 /* Copie de Sparkle.png in Resources */,
+				23175CE00000000000000000 /* Info.plist in Resources */,
+				1A6464200000000000000000 /* Entitlements.plist in Resources */,
+				19C3B0300000000000000000 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		26CEE7400000000000000000 /* Sources */ = {
+		71698A000000000000000000 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7AC66000000000000000000 /* AppDelegate.m in Sources */,
-				10D8C6500000000000000000 /* ViewController.m in Sources */,
+				26EABF800000000000000000 /* AppDelegate.m in Sources */,
+				104698900000000000000000 /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1CB5DD300000000000000000 /* Debug */ = {
+		2A1E1D900000000000000000 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -290,7 +290,7 @@
 			};
 			name = Debug;
 		};
-		264C6B000000000000000000 /* Release */ = {
+		3B0F0A200000000000000000 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -341,7 +341,7 @@
 			};
 			name = Release;
 		};
-		158AFC600000000000000000 /* Debug */ = {
+		13875B300000000000000000 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
@@ -356,7 +356,7 @@
 			};
 			name = Debug;
 		};
-		1E2DFE000000000000000000 /* Release */ = {
+		2FC234D00000000000000000 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
@@ -374,25 +374,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		330A6C000000000000000000 /* Build configuration list for PBXProject "MacOSApp1" */ = {
+		2F58ADF00000000000000000 /* Build configuration list for PBXProject "MacOSApp1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1CB5DD300000000000000000 /* Debug */,
-				264C6B000000000000000000 /* Release */,
+				2A1E1D900000000000000000 /* Debug */,
+				3B0F0A200000000000000000 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		44FE0C000000000000000000 /* Build configuration list for PBXNativeTarget "MacOSApp1" */ = {
+		C99F20000000000000000000 /* Build configuration list for PBXNativeTarget "MacOSApp1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				158AFC600000000000000000 /* Debug */,
-				1E2DFE000000000000000000 /* Release */,
+				13875B300000000000000000 /* Debug */,
+				2FC234D00000000000000000 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7772EF000000000000000000 /* Project object */;
+	rootObject = 3E264C300000000000000000 /* Project object */;
 }

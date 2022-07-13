@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using AppKit;
 using Foundation;
@@ -79,7 +80,165 @@ namespace MacOSApp1
             
             for ( int i = 0; i < requeteForcast.list.Count; i++)
             {
-                if (requeteForcast.list[i].dt_txt.Contains("00"))
+                var localDate = DateTime.Now;
+                
+                var tommorow = Regex.Split(requeteForcast.list[i].dt_txt, @"\s+");
+                if (tommorow[0] == localDate.AddDays(1).ToString("yyyy-MM-dd"))
+                {
+                    var time1 = getDate(requeteForcast.list[i].dt);
+                    days2.StringValue = time1.DayOfWeek.ToString();
+                    if (tommorow[1] == "09:00:00")
+                    {
+                        image1.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax1.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+                        heure1.StringValue = requeteForcast.list[i].dt_txt
+                            .Substring(requeteForcast.list[i].dt_txt.Length - 8);
+                        
+                    }
+                    if (tommorow[1] == "15:00:00")
+                    {
+                        image2.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax2.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+                        heure2.StringValue = requeteForcast.list[i].dt_txt
+                            .Substring(requeteForcast.list[i].dt_txt.Length - 8);
+                        
+                    }
+
+                    if (tommorow[1] == "21:00:00")
+                    {
+                        image3.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax3.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+                        heure3.StringValue = requeteForcast.list[i].dt_txt
+                            .Substring(requeteForcast.list[i].dt_txt.Length - 8);
+                        
+                    }
+                    
+                }
+                //2
+                if (tommorow[0] == localDate.AddDays(2).ToString("yyyy-MM-dd"))
+                {
+                    var time2 = getDate(requeteForcast.list[i].dt);
+                    days3.StringValue = time2.DayOfWeek.ToString();
+                    if (tommorow[1] == "09:00:00")
+                    {
+                        image4.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax4.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+
+                    }
+                    if (tommorow[1] == "15:00:00")
+                    {
+                        image5.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax5.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+
+                    }
+
+                    if (tommorow[1] == "21:00:00")
+                    {
+                        image6.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax6.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+                        
+                        
+                    }
+                    
+                }
+                //3
+                if (tommorow[0] == localDate.AddDays(3).ToString("yyyy-MM-dd"))
+                {
+                    var time3 = getDate(requeteForcast.list[i].dt);
+                    days4.StringValue = time3.DayOfWeek.ToString();
+                    if (tommorow[1] == "09:00:00")
+                    {
+                        image7.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax7.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+
+                    }
+                    if (tommorow[1] == "15:00:00")
+                    {
+                        image8.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax8.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+
+                    }
+
+                    if (tommorow[1] == "21:00:00")
+                    {
+                        image9.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax9.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+                        
+                        
+                    }
+                    
+                }
+                //3
+                if (tommorow[0] == localDate.AddDays(4).ToString("yyyy-MM-dd"))
+                {
+                    var time4 = getDate(requeteForcast.list[i].dt);
+                    days5.StringValue = time4.DayOfWeek.ToString();
+                    if (tommorow[1] == "09:00:00")
+                    {
+                        image10.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax10.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+
+                    }
+                    if (tommorow[1] == "15:00:00")
+                    {
+                        image11.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax11.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+
+                    }
+
+                    if (tommorow[1] == "21:00:00")
+                    {
+                        image12.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax12.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                              requeteForcast.list[i].main.temp_min.ToString() + "°c";
+                        
+                        
+                    }
+                    
+                }
+                //3
+                if (tommorow[0] == localDate.AddDays(5).ToString("yyyy-MM-dd"))
+                {
+                    var time5 = getDate(requeteForcast.list[i].dt);
+                    days6.StringValue = time5.DayOfWeek.ToString();
+                    if (tommorow[1] == "09:00:00")
+                    {
+                        image13.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax13.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                               requeteForcast.list[i].main.temp_min.ToString() + "°c";
+
+                    }
+                    if (tommorow[1] == "15:00:00")
+                    {
+                        image14.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax14.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                               requeteForcast.list[i].main.temp_min.ToString() + "°c";
+
+                    }
+
+                    if (tommorow[1] == "21:00:00")
+                    {
+                        image15.Image = new NSImage(requeteForcast.list[i].weather[0].icon + ".png");
+                        minmax15.StringValue = requeteForcast.list[i].main.temp_max.ToString() + "°c / " +
+                                               requeteForcast.list[i].main.temp_min.ToString() + "°c";
+                        
+                        
+                    }
+                    
+                }
+
+                    /*if (requeteForcast.list[i].dt_txt.Contains())
                 {
                     var time1 = getDate(requeteForcast.list[i].dt);
                     days2.StringValue = time1.DayOfWeek.ToString();
@@ -153,7 +312,7 @@ namespace MacOSApp1
                                           requeteForcast.list[i+35].main.temp_min.ToString() + "°c";
                     
                     break;
-                }
+                }*/
             }
 
         }
